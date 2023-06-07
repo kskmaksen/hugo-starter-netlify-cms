@@ -1,7 +1,19 @@
 ---
-title: Hi There
-blurb: Welcome to your new Hugo site.
+title: School TIkva OrSameah
+blurb: Сайт для школы
 section:
-  heading: продажи великов
-  text: You can put even more content in here.
+  heading: Расписание
+  text: |-2
+     Початок – кінець
+       8:00 – 9:20
+    9:20 – 9:30
+    9:30 – 10:50
+    10:50 – 11:30
+    11:30 – 12:50
+    12:50 – 13:00
+    13:00 – 14:20
+    14:20 – 14:30
+    14:30 – 15:50
+    15:50 – 16:00
+    16:00 – 17:20
 ---
